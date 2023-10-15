@@ -1,0 +1,281 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ClearPageProperty	mm/memlayout.h	50;"	d
+ClearPageReserved	mm/memlayout.h	47;"	d
+EXEC_ONLY	mm/mmu.h	69;"	d
+KERNBASE	mm/memlayout.h	5;"	d
+KERNEL_BEGIN_PADDR	mm/memlayout.h	14;"	d
+KERNEL_BEGIN_VADDR	mm/memlayout.h	15;"	d
+KERNTOP	mm/memlayout.h	10;"	d
+KMEMSIZE	mm/memlayout.h	7;"	d
+KSTACKPAGE	mm/memlayout.h	18;"	d
+KSTACKSIZE	mm/memlayout.h	19;"	d
+MAXARGS	debug/kmonitor.c	33;"	d	file:
+NCOMMANDS	debug/kmonitor.c	29;"	d	file:
+N_BCOMM	debug/stab.h	39;"	d
+N_BINCL	debug/stab.h	31;"	d
+N_BSLINE	debug/stab.h	27;"	d
+N_DSLINE	debug/stab.h	26;"	d
+N_ECOML	debug/stab.h	41;"	d
+N_ECOMM	debug/stab.h	40;"	d
+N_EINCL	debug/stab.h	34;"	d
+N_ENTRY	debug/stab.h	35;"	d
+N_EXCL	debug/stab.h	37;"	d
+N_FNAME	debug/stab.h	18;"	d
+N_FUN	debug/stab.h	19;"	d
+N_GSYM	debug/stab.h	17;"	d
+N_LBRAC	debug/stab.h	36;"	d
+N_LCSYM	debug/stab.h	21;"	d
+N_LENG	debug/stab.h	42;"	d
+N_LSYM	debug/stab.h	30;"	d
+N_MAIN	debug/stab.h	22;"	d
+N_PC	debug/stab.h	23;"	d
+N_PSYM	debug/stab.h	33;"	d
+N_RBRAC	debug/stab.h	38;"	d
+N_RSYM	debug/stab.h	24;"	d
+N_SLINE	debug/stab.h	25;"	d
+N_SO	debug/stab.h	29;"	d
+N_SOL	debug/stab.h	32;"	d
+N_SSYM	debug/stab.h	28;"	d
+N_STSYM	debug/stab.h	20;"	d
+PADDR	mm/pmm.h	55;"	d
+PAGE_TABLE_DIR	mm/mmu.h	66;"	d
+PGSHIFT	mm/mmu.h	10;"	d
+PGSIZE	mm/mmu.h	9;"	d
+PG_property	mm/memlayout.h	44;"	d
+PG_reserved	mm/memlayout.h	43;"	d
+PHYSICAL_MEMORY_END	mm/memlayout.h	12;"	d
+PHYSICAL_MEMORY_OFFSET	mm/memlayout.h	13;"	d
+PPN	mm/mmu.h	13;"	d
+PTE_A	mm/mmu.h	62;"	d
+PTE_D	mm/mmu.h	63;"	d
+PTE_G	mm/mmu.h	61;"	d
+PTE_R	mm/mmu.h	57;"	d
+PTE_SOFT	mm/mmu.h	64;"	d
+PTE_U	mm/mmu.h	60;"	d
+PTE_USER	mm/mmu.h	73;"	d
+PTE_V	mm/mmu.h	56;"	d
+PTE_W	mm/mmu.h	58;"	d
+PTE_X	mm/mmu.h	59;"	d
+Page	mm/memlayout.h	/^struct Page {$/;"	s
+PageProperty	mm/memlayout.h	51;"	d
+PageReserved	mm/memlayout.h	48;"	d
+READ_EXEC	mm/mmu.h	70;"	d
+READ_ONLY	mm/mmu.h	67;"	d
+READ_WRITE	mm/mmu.h	68;"	d
+READ_WRITE_EXEC	mm/mmu.h	71;"	d
+SV39_NENTRY	mm/mmu.h	27;"	d
+SV39_PGADDR	mm/mmu.h	45;"	d
+SV39_PGSHIFT	mm/mmu.h	30;"	d
+SV39_PGSIZE	mm/mmu.h	29;"	d
+SV39_PT0	mm/mmu.h	51;"	d
+SV39_PT1	mm/mmu.h	52;"	d
+SV39_PT2	mm/mmu.h	53;"	d
+SV39_PTE_ADDR	mm/mmu.h	48;"	d
+SV39_PTE_PPN_SHIFT	mm/mmu.h	37;"	d
+SV39_PTSHIFT	mm/mmu.h	32;"	d
+SV39_PTSIZE	mm/mmu.h	31;"	d
+SV39_VPN	mm/mmu.h	42;"	d
+SV39_VPN0	mm/mmu.h	39;"	d
+SV39_VPN0SHIFT	mm/mmu.h	34;"	d
+SV39_VPN1	mm/mmu.h	40;"	d
+SV39_VPN1SHIFT	mm/mmu.h	35;"	d
+SV39_VPN2	mm/mmu.h	41;"	d
+SV39_VPN2SHIFT	mm/mmu.h	36;"	d
+SetPageProperty	mm/memlayout.h	49;"	d
+SetPageReserved	mm/memlayout.h	46;"	d
+TICK_NUM	trap/trap.c	12;"	d	file:
+WHITESPACE	debug/kmonitor.c	34;"	d	file:
+__KERN_DEBUG_ASSERT_H__	debug/assert.h	2;"	d
+__KERN_DEBUG_KDEBUG_H__	debug/kdebug.h	2;"	d
+__KERN_DEBUG_MONITOR_H__	debug/kmonitor.h	2;"	d
+__KERN_DEBUG_STAB_H__	debug/stab.h	2;"	d
+__KERN_DRIVER_CLOCK_H__	driver/clock.h	2;"	d
+__KERN_DRIVER_CONSOLE_H__	driver/console.h	2;"	d
+__KERN_DRIVER_INTR_H__	driver/intr.h	2;"	d
+__KERN_MM_BEST_FIT_PMM_H__	mm/best_fit_pmm.h	2;"	d
+__KERN_MM_DEFAULT_PMM_H__	mm/default_pmm.h	2;"	d
+__KERN_MM_MEMLAYOUT_H__	mm/memlayout.h	2;"	d
+__KERN_MM_MMU_H__	mm/mmu.h	2;"	d
+__KERN_MM_PMM_H__	mm/pmm.h	2;"	d
+__KERN_SYNC_SYNC_H__	sync/sync.h	2;"	d
+__KERN_TRAP_TRAP_H__	trap/trap.h	2;"	d
+__alltraps	trap/trapentry.S	/^__alltraps:$/;"	l
+__intr_restore	sync/sync.h	/^static inline void __intr_restore(bool flag) {$/;"	f
+__intr_save	sync/sync.h	/^static inline bool __intr_save(void) {$/;"	f
+__panic	debug/panic.c	/^__panic(const char *file, int line, const char *fmt, ...) {$/;"	f
+__trapret	trap/trapentry.S	/^__trapret:$/;"	l
+__warn	debug/panic.c	/^__warn(const char *file, int line, const char *fmt, ...) {$/;"	f
+a0	trap/trap.h	/^    uintptr_t a0;    \/\/ Function argument\/return value$/;"	m	struct:pushregs
+a1	trap/trap.h	/^    uintptr_t a1;    \/\/ Function argument\/return value$/;"	m	struct:pushregs
+a2	trap/trap.h	/^    uintptr_t a2;    \/\/ Function argument$/;"	m	struct:pushregs
+a3	trap/trap.h	/^    uintptr_t a3;    \/\/ Function argument$/;"	m	struct:pushregs
+a4	trap/trap.h	/^    uintptr_t a4;    \/\/ Function argument$/;"	m	struct:pushregs
+a5	trap/trap.h	/^    uintptr_t a5;    \/\/ Function argument$/;"	m	struct:pushregs
+a6	trap/trap.h	/^    uintptr_t a6;    \/\/ Function argument$/;"	m	struct:pushregs
+a7	trap/trap.h	/^    uintptr_t a7;    \/\/ Function argument$/;"	m	struct:pushregs
+alloc_page	mm/pmm.h	43;"	d
+alloc_pages	mm/pmm.c	/^struct Page *alloc_pages(size_t n) {$/;"	f
+alloc_pages	mm/pmm.h	/^    struct Page *(*alloc_pages)($/;"	m	struct:pmm_manager	typeref:struct:pmm_manager::alloc_pages
+assert	debug/assert.h	15;"	d
+badvaddr	trap/trap.h	/^    uintptr_t badvaddr;$/;"	m	struct:trapframe
+basic_check	mm/best_fit_pmm.c	/^basic_check(void) {$/;"	f	file:
+basic_check	mm/default_pmm.c	/^basic_check(void) {$/;"	f	file:
+best_fit_alloc_pages	mm/best_fit_pmm.c	/^best_fit_alloc_pages(size_t n) {$/;"	f	file:
+best_fit_check	mm/best_fit_pmm.c	/^best_fit_check(void) {$/;"	f	file:
+best_fit_free_pages	mm/best_fit_pmm.c	/^best_fit_free_pages(struct Page *base, size_t n) {$/;"	f	file:
+best_fit_init	mm/best_fit_pmm.c	/^best_fit_init(void) {$/;"	f	file:
+best_fit_init_memmap	mm/best_fit_pmm.c	/^best_fit_init_memmap(struct Page *base, size_t n) {$/;"	f	file:
+best_fit_nr_free_pages	mm/best_fit_pmm.c	/^best_fit_nr_free_pages(void) {$/;"	f	file:
+best_fit_pmm_manager	mm/best_fit_pmm.c	/^const struct pmm_manager best_fit_pmm_manager = {$/;"	v	typeref:struct:pmm_manager
+boot_page_table_sv39	init/entry.S	/^boot_page_table_sv39:$/;"	l
+bootstack	init/entry.S	/^bootstack:$/;"	l
+bootstacktop	init/entry.S	/^bootstacktop:$/;"	l
+cause	trap/trap.h	/^    uintptr_t cause;$/;"	m	struct:trapframe
+check	mm/pmm.h	/^    void (*check)(void);            \/\/ check the correctness of XXX_pmm_manager$/;"	m	struct:pmm_manager
+check_alloc_page	mm/pmm.c	/^static void check_alloc_page(void) {$/;"	f	file:
+clock_init	driver/clock.c	/^void clock_init(void) {$/;"	f
+clock_set_next_event	driver/clock.c	/^void clock_set_next_event(void) { sbi_set_timer(get_cycles() + timebase); }$/;"	f
+command	debug/kmonitor.c	/^struct command {$/;"	s	file:
+commands	debug/kmonitor.c	/^static struct command commands[] = {$/;"	v	typeref:struct:command	file:
+cons_getc	driver/console.c	/^int cons_getc(void) {$/;"	f
+cons_init	driver/console.c	/^void cons_init(void) {}$/;"	f
+cons_putc	driver/console.c	/^void cons_putc(int c) { sbi_console_putchar((unsigned char)c); }$/;"	f
+cprintf	libs/stdio.c	/^cprintf(const char *fmt, ...) {$/;"	f
+cputch	libs/stdio.c	/^cputch(int c, int *cnt) {$/;"	f	file:
+cputchar	libs/stdio.c	/^cputchar(int c) {$/;"	f
+cputs	libs/stdio.c	/^cputs(const char *str) {$/;"	f
+default_alloc_pages	mm/default_pmm.c	/^default_alloc_pages(size_t n) {$/;"	f	file:
+default_check	mm/default_pmm.c	/^default_check(void) {$/;"	f	file:
+default_free_pages	mm/default_pmm.c	/^default_free_pages(struct Page *base, size_t n) {$/;"	f	file:
+default_init	mm/default_pmm.c	/^default_init(void) {$/;"	f	file:
+default_init_memmap	mm/default_pmm.c	/^default_init_memmap(struct Page *base, size_t n) {$/;"	f	file:
+default_nr_free_pages	mm/default_pmm.c	/^default_nr_free_pages(void) {$/;"	f	file:
+default_pmm_manager	mm/default_pmm.c	/^const struct pmm_manager default_pmm_manager = {$/;"	v	typeref:struct:pmm_manager
+desc	debug/kmonitor.c	/^    const char *desc;$/;"	m	struct:command	file:
+epc	trap/trap.h	/^    uintptr_t epc;$/;"	m	struct:trapframe
+exception_handler	trap/trap.c	/^void exception_handler(struct trapframe *tf) {$/;"	f
+flags	mm/memlayout.h	/^    uint64_t flags;                 \/\/ array of flags that describe the status of the page frame$/;"	m	struct:Page
+flush_tlb	mm/pmm.h	/^static inline void flush_tlb() { asm volatile("sfence.vm"); }$/;"	f
+free_area	mm/best_fit_pmm.c	/^free_area_t free_area;$/;"	v
+free_area	mm/default_pmm.c	/^free_area_t free_area;$/;"	v
+free_area_t	mm/memlayout.h	/^} free_area_t;$/;"	t	typeref:struct:__anon1
+free_list	mm/best_fit_pmm.c	60;"	d	file:
+free_list	mm/default_pmm.c	58;"	d	file:
+free_list	mm/memlayout.h	/^    list_entry_t free_list;         \/\/ the list header$/;"	m	struct:__anon1
+free_page	mm/pmm.h	44;"	d
+free_pages	mm/pmm.c	/^void free_pages(struct Page *base, size_t n) {$/;"	f
+free_pages	mm/pmm.h	/^    void (*free_pages)(struct Page *base, size_t n);  \/\/ free >=n pages with$/;"	m	struct:pmm_manager
+func	debug/kmonitor.c	/^    int(*func)(int argc, char **argv, struct trapframe *tf);$/;"	m	struct:command	file:
+get_cycles	driver/clock.c	/^static inline uint64_t get_cycles(void) {$/;"	f	file:
+getchar	libs/stdio.c	/^getchar(void) {$/;"	f
+gp	trap/trap.h	/^    uintptr_t gp;    \/\/ Global pointer$/;"	m	struct:pushregs
+gpr	trap/trap.h	/^    struct pushregs gpr;$/;"	m	struct:trapframe	typeref:struct:trapframe::pushregs
+grade_backtrace	init/init.c	/^void grade_backtrace(void) { grade_backtrace0(0, (uintptr_t)kern_init, 0xffff0000); }$/;"	f
+grade_backtrace0	init/init.c	/^void __attribute__((noinline)) grade_backtrace0(int arg0, int arg1, int arg2) {$/;"	f
+grade_backtrace1	init/init.c	/^void __attribute__((noinline)) grade_backtrace1(int arg0, int arg1) {$/;"	f
+grade_backtrace2	init/init.c	/^grade_backtrace2(int arg0, int arg1, int arg2, int arg3) {$/;"	f
+idt_init	trap/trap.c	/^void idt_init(void) {$/;"	f
+init	mm/pmm.h	/^    void (*init)($/;"	m	struct:pmm_manager
+init_memmap	mm/pmm.c	/^static void init_memmap(struct Page *base, size_t n) {$/;"	f	file:
+init_memmap	mm/pmm.h	/^    void (*init_memmap)($/;"	m	struct:pmm_manager
+init_pmm_manager	mm/pmm.c	/^static void init_pmm_manager(void) {$/;"	f	file:
+interrupt_handler	trap/trap.c	/^void interrupt_handler(struct trapframe *tf) {$/;"	f
+intr_disable	driver/intr.c	/^void intr_disable(void) { clear_csr(sstatus, SSTATUS_SIE); }$/;"	f
+intr_enable	driver/intr.c	/^void intr_enable(void) { set_csr(sstatus, SSTATUS_SIE); }$/;"	f
+is_kernel_panic	debug/panic.c	/^is_kernel_panic(void) {$/;"	f
+is_panic	debug/panic.c	/^static bool is_panic = 0;$/;"	v	file:
+kbd_intr	driver/console.c	/^void kbd_intr(void) {}$/;"	f
+kern_entry	init/entry.S	/^kern_entry:$/;"	l
+kern_init	init/init.c	/^int kern_init(void) {$/;"	f
+kmonitor	debug/kmonitor.c	/^kmonitor(struct trapframe *tf) {$/;"	f
+lab1_print_cur_status	init/init.c	/^static void lab1_print_cur_status(void) {$/;"	f	file:
+le2page	mm/memlayout.h	54;"	d
+local_intr_restore	sync/sync.h	26;"	d
+local_intr_save	sync/sync.h	22;"	d
+mon_backtrace	debug/kmonitor.c	/^mon_backtrace(int argc, char **argv, struct trapframe *tf) {$/;"	f
+mon_help	debug/kmonitor.c	/^mon_help(int argc, char **argv, struct trapframe *tf) {$/;"	f
+mon_kerninfo	debug/kmonitor.c	/^mon_kerninfo(int argc, char **argv, struct trapframe *tf) {$/;"	f
+n_desc	debug/stab.h	/^    uint16_t n_desc;        \/\/ description field$/;"	m	struct:stab
+n_other	debug/stab.h	/^    uint8_t n_other;        \/\/ misc info (usually empty)$/;"	m	struct:stab
+n_strx	debug/stab.h	/^    uint32_t n_strx;        \/\/ index into string table of name$/;"	m	struct:stab
+n_type	debug/stab.h	/^    uint8_t n_type;         \/\/ type of symbol$/;"	m	struct:stab
+n_value	debug/stab.h	/^    uintptr_t n_value;      \/\/ value of symbol$/;"	m	struct:stab
+name	debug/kmonitor.c	/^    const char *name;$/;"	m	struct:command	file:
+name	mm/pmm.h	/^    const char *name;  \/\/ XXX_pmm_manager's name$/;"	m	struct:pmm_manager
+nbase	mm/pmm.c	/^const size_t nbase = DRAM_BASE \/ PGSIZE;$/;"	v
+npage	mm/pmm.c	/^size_t npage = 0;$/;"	v
+nr_free	mm/best_fit_pmm.c	61;"	d	file:
+nr_free	mm/default_pmm.c	59;"	d	file:
+nr_free	mm/memlayout.h	/^    unsigned int nr_free;           \/\/ number of free pages in this free list$/;"	m	struct:__anon1
+nr_free_pages	mm/pmm.c	/^size_t nr_free_pages(void) {$/;"	f
+nr_free_pages	mm/pmm.h	/^    size_t (*nr_free_pages)(void);  \/\/ return the number of free pages$/;"	m	struct:pmm_manager
+pa2page	mm/pmm.h	/^static inline struct Page *pa2page(uintptr_t pa) {$/;"	f
+page2pa	mm/pmm.h	/^static inline uintptr_t page2pa(struct Page *page) {$/;"	f
+page2ppn	mm/pmm.h	/^static inline ppn_t page2ppn(struct Page *page) { return page - pages + nbase; }$/;"	f
+page_init	mm/pmm.c	/^static void page_init(void) {$/;"	f	file:
+page_link	mm/memlayout.h	/^    list_entry_t page_link;         \/\/ free list link$/;"	m	struct:Page
+page_ref	mm/pmm.h	/^static inline int page_ref(struct Page *page) { return page->ref; }$/;"	f
+page_ref_dec	mm/pmm.h	/^static inline int page_ref_dec(struct Page *page) {$/;"	f
+page_ref_inc	mm/pmm.h	/^static inline int page_ref_inc(struct Page *page) {$/;"	f
+pages	mm/pmm.c	/^struct Page *pages;$/;"	v	typeref:struct:Page
+panic	debug/assert.h	12;"	d
+parse	debug/kmonitor.c	/^parse(char *buf, char **argv) {$/;"	f	file:
+pde_t	mm/memlayout.h	/^typedef uintptr_t pde_t;$/;"	t
+pmm_init	mm/pmm.c	/^void pmm_init(void) {$/;"	f
+pmm_manager	mm/pmm.c	/^const struct pmm_manager *pmm_manager;$/;"	v	typeref:struct:pmm_manager
+pmm_manager	mm/pmm.h	/^struct pmm_manager {$/;"	s
+print_debuginfo	debug/kdebug.c	/^void print_debuginfo(uintptr_t eip) { panic("Not Implemented!"); }$/;"	f
+print_kerninfo	debug/kdebug.c	/^void print_kerninfo(void) {$/;"	f
+print_regs	trap/trap.c	/^void print_regs(struct pushregs *gpr) {$/;"	f
+print_stackframe	debug/kdebug.c	/^void print_stackframe(void) {$/;"	f
+print_ticks	trap/trap.c	/^static void print_ticks() {$/;"	f	file:
+print_trapframe	trap/trap.c	/^void print_trapframe(struct trapframe *tf) {$/;"	f
+property	mm/memlayout.h	/^    unsigned int property;          \/\/ the num of free block, used in first fit pm manager$/;"	m	struct:Page
+pte_t	mm/memlayout.h	/^typedef uintptr_t pte_t;$/;"	t
+pushregs	trap/trap.h	/^struct pushregs {$/;"	s
+ra	trap/trap.h	/^    uintptr_t ra;    \/\/ Return address$/;"	m	struct:pushregs
+ref	mm/memlayout.h	/^    int ref;                        \/\/ page frame's reference counter$/;"	m	struct:Page
+runcmd	debug/kmonitor.c	/^runcmd(char *buf, struct trapframe *tf) {$/;"	f	file:
+s0	trap/trap.h	/^    uintptr_t s0;    \/\/ Saved register\/frame pointer$/;"	m	struct:pushregs
+s1	trap/trap.h	/^    uintptr_t s1;    \/\/ Saved register$/;"	m	struct:pushregs
+s10	trap/trap.h	/^    uintptr_t s10;   \/\/ Saved register$/;"	m	struct:pushregs
+s11	trap/trap.h	/^    uintptr_t s11;   \/\/ Saved register$/;"	m	struct:pushregs
+s2	trap/trap.h	/^    uintptr_t s2;    \/\/ Saved register$/;"	m	struct:pushregs
+s3	trap/trap.h	/^    uintptr_t s3;    \/\/ Saved register$/;"	m	struct:pushregs
+s4	trap/trap.h	/^    uintptr_t s4;    \/\/ Saved register$/;"	m	struct:pushregs
+s5	trap/trap.h	/^    uintptr_t s5;    \/\/ Saved register$/;"	m	struct:pushregs
+s6	trap/trap.h	/^    uintptr_t s6;    \/\/ Saved register$/;"	m	struct:pushregs
+s7	trap/trap.h	/^    uintptr_t s7;    \/\/ Saved register$/;"	m	struct:pushregs
+s8	trap/trap.h	/^    uintptr_t s8;    \/\/ Saved register$/;"	m	struct:pushregs
+s9	trap/trap.h	/^    uintptr_t s9;    \/\/ Saved register$/;"	m	struct:pushregs
+satp_physical	mm/pmm.c	/^uintptr_t satp_physical;$/;"	v
+satp_virtual	mm/pmm.c	/^uintptr_t *satp_virtual = NULL;$/;"	v
+serial_intr	driver/console.c	/^void serial_intr(void) {}$/;"	f
+set_page_ref	mm/pmm.h	/^static inline void set_page_ref(struct Page *page, int val) { page->ref = val; }$/;"	f
+sp	trap/trap.h	/^    uintptr_t sp;    \/\/ Stack pointer$/;"	m	struct:pushregs
+stab	debug/stab.h	/^struct stab {$/;"	s
+static_assert	debug/assert.h	23;"	d
+status	trap/trap.h	/^    uintptr_t status;$/;"	m	struct:trapframe
+t0	trap/trap.h	/^    uintptr_t t0;    \/\/ Temporary$/;"	m	struct:pushregs
+t1	trap/trap.h	/^    uintptr_t t1;    \/\/ Temporary$/;"	m	struct:pushregs
+t2	trap/trap.h	/^    uintptr_t t2;    \/\/ Temporary$/;"	m	struct:pushregs
+t3	trap/trap.h	/^    uintptr_t t3;    \/\/ Temporary$/;"	m	struct:pushregs
+t4	trap/trap.h	/^    uintptr_t t4;    \/\/ Temporary$/;"	m	struct:pushregs
+t5	trap/trap.h	/^    uintptr_t t5;    \/\/ Temporary$/;"	m	struct:pushregs
+t6	trap/trap.h	/^    uintptr_t t6;    \/\/ Temporary$/;"	m	struct:pushregs
+ticks	driver/clock.c	/^volatile size_t ticks;$/;"	v
+timebase	driver/clock.c	/^static uint64_t timebase = 100000;$/;"	v	file:
+tp	trap/trap.h	/^    uintptr_t tp;    \/\/ Thread pointer$/;"	m	struct:pushregs
+trap	trap/trap.c	/^void trap(struct trapframe *tf) {$/;"	f
+trap_dispatch	trap/trap.c	/^static inline void trap_dispatch(struct trapframe *tf) {$/;"	f	file:
+trap_in_kernel	trap/trap.c	/^bool trap_in_kernel(struct trapframe *tf) {$/;"	f
+trapframe	trap/trap.h	/^struct trapframe {$/;"	s
+va_pa_offset	mm/pmm.c	/^uint64_t va_pa_offset;$/;"	v
+vcprintf	libs/stdio.c	/^vcprintf(const char *fmt, va_list ap) {$/;"	f
+warn	debug/assert.h	9;"	d
+zero	trap/trap.h	/^    uintptr_t zero;  \/\/ Hard-wired zero$/;"	m	struct:pushregs
